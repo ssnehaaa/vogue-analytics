@@ -55,7 +55,7 @@ To validate the reliability of the predictive engine before deploying it to supp
 ### Actual vs. Predicted Variance Distribution
 The scatter plot below charts the actual true shelf life of test items against the predictions made by the optimized XGBoost backend model. 
 
-![Model Error Bounds Distribution](images/error_variance_plot.png)
+![Model Error Bounds Distribution](error_variance_plot.png)
 
 ### Deep-Dive Analysis of the Distribution Plot:
 1. **Strong Diagonal Alignment**: The data points tightly hug the 45-degree dashed "Perfect Forecast Line" from the low-lifespan micro-trends (bottom left) to the long-term staple trends (top right). This proves that the model doesn't just guess an average duration; it mathematically recognizes the structural signals that differentiate short-lived hype from sustainable movements.
