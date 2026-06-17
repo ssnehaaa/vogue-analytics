@@ -74,11 +74,11 @@ To execute the server locally, maintain the structural file path layout exactly 
 ```text
 vogue-analytics/
 ├── app.py                     # Streamlit frontend engine & CSS injection layer
+├── error_variance_plot.png    # Validation performance graph
 ├── model.pkl                  # Compressed serialized weights of the trained XGBoost model
 ├── requirements.txt           # Explicit Python dependencies blueprint
 ├── fashion_trends_lifecycle_analysis.csv  # Core structured feature matrix dataset
 └── images/                    # Local asset repository for high-res offline silhouettes
-    ├── error_variance_plot.png # Validation performance graph
     ├── Athleisure.jpg
     ├── Cargo Pants.jpg
     └── Oversized Blazers.jpg
