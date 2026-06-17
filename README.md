@@ -1,4 +1,4 @@
-# ✨ VogueAnalytics // Predictive Trend Lifecycle & Supply Chain Risk Matrix
+# VogueAnalytics // Predictive Trend Lifecycle & Supply Chain Risk Matrix
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![XGBoost](https://img.shields.io/badge/Machine%20Learning-XGBoost-gradient.svg)](https://xgboost.readthedocs.io/)
@@ -12,7 +12,7 @@ It transitions fashion retail from reactive manufacturing to proactive algorithm
 
 ---
 
-## 🚀 The Core Business Value (Why This Matters)
+## The Core Business Value (Why This Matters)
 In modern vertical supply chains (pioneered by ultra-fast fashion giants like SHEIN and Zara), production cycles have dropped from months to days. However, predicting when a trend will *die* remains a massive industry blindspot. 
 
 VogueAnalytics serves as an **automated risk-mitigation layer** for procurement teams, inventory managers, and retail buyers:
@@ -22,7 +22,7 @@ VogueAnalytics serves as an **automated risk-mitigation layer** for procurement 
 
 ---
 
-## 🛠️ Technical Pipeline & Architecture
+## Technical Pipeline & Architecture
 
 ### 1. Data Synthesis & Engineering
 Built upon a custom historical lifecycle dataset tracking 41 viral fashion movements across complex categories (Apparel, Footwear, Aesthetics, and Details), the raw features were mathematically transformed to expose underlying predictive signals:
@@ -41,7 +41,7 @@ To achieve enterprise-grade accuracy on complex, non-linear trend behavior, a mu
 
 ---
 
-## 📈 Model Performance & Predictive Verification
+## Model Performance & Predictive Verification
 
 To validate the reliability of the predictive engine before deploying it to supply chain environments, the model was subjected to evaluation across unseen validation datasets.
 
@@ -67,7 +67,7 @@ Given that standard global apparel manufacturing turnaround cycles (from sourcin
 
 ---
 
-## 📦 Local Workspace Architecture
+## Local Workspace Architecture
 
 To execute the server locally, maintain the structural file path layout exactly as shown below:
 
