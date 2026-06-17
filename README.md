@@ -12,7 +12,7 @@ It transitions fashion retail from reactive manufacturing to proactive algorithm
 
 ---
 
-## 🚀 The Core Business Value (Why This Matters)
+## The Core Business Value (Why This Matters)
 In modern vertical supply chains (pioneered by ultra-fast fashion giants like SHEIN and Zara), production cycles have dropped from months to days. However, predicting when a trend will *die* remains a massive industry blindspot. 
 
 VogueAnalytics serves as an **automated risk-mitigation layer** for procurement teams, inventory managers, and retail buyers:
@@ -22,7 +22,7 @@ VogueAnalytics serves as an **automated risk-mitigation layer** for procurement 
 
 ---
 
-## 🛠️ Technical Pipeline & Architecture
+## Technical Pipeline & Architecture
 
 ### 1. Data Synthesis & Engineering
 Built upon a custom historical lifecycle dataset tracking 41 viral fashion movements across complex categories (Apparel, Footwear, Aesthetics, and Details), the raw features were mathematically transformed to expose underlying predictive signals:
@@ -47,7 +47,7 @@ The dashboard was built using **Streamlit**, heavily customized via HTML5/CSS3 s
 
 ---
 
-## 📦 Local Workspace Architecture
+## Local Workspace Architecture
 
 To execute the server locally, maintain the structural file path layout exactly as shown below:
 
